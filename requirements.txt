@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+openpyxl
+lazypredict
+streamlit>=1.36
+gradio>=5.0
